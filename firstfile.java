@@ -1,4 +1,4 @@
-public class array1{
+public class firstfile{
     
     public static void main(String[] args) {
         System.out.println("this is my first file");
